@@ -533,12 +533,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="configDialog.ui" line="140"/>
         <source>4:3</source>
-        <translation></translation>
+        <translation>4:3</translation>
     </message>
     <message>
         <location filename="configDialog.ui" line="153"/>
         <source>16:9</source>
-        <translation></translation>
+        <translation>16:9</translation>
     </message>
     <message>
         <location filename="configDialog.ui" line="163"/>
@@ -554,13 +554,13 @@ p, li { white-space: pre-wrap; }
         <location filename="configDialog.ui" line="215"/>
         <location filename="configDialog.ui" line="319"/>
         <source>0</source>
-        <translation></translation>
+        <translation>0</translation>
     </message>
     <message>
         <location filename="configDialog.ui" line="222"/>
         <location filename="configDialog.ui" line="326"/>
         <source>X</source>
-        <translation></translation>
+        <translation>X</translation>
     </message>
     <message>
         <location filename="configDialog.ui" line="235"/>
@@ -618,12 +618,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="configDialog.ui" line="475"/>
         <source>bmp</source>
-        <translation></translation>
+        <translation>bmp</translation>
     </message>
     <message>
         <location filename="configDialog.ui" line="485"/>
         <source>jpeg</source>
-        <translation></translation>
+        <translation>jpeg</translation>
     </message>
     <message>
         <location filename="configDialog.ui" line="541"/>
@@ -687,7 +687,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="configDialog.ui" line="617"/>
         <source>Enable shaders storage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Activer le Stockage des Shaders</translation>
     </message>
     <message>
         <location filename="configDialog.ui" line="624"/>
@@ -711,7 +711,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="configDialog.ui" line="687"/>
         <source>Copy frame buffer to RDRAM</source>
-        <translation>Copier le frame buffer dans la RAM</translation>
+        <translation>Copier le tampon image dans la RDRAM</translation>
     </message>
     <message>
         <location filename="configDialog.ui" line="745"/>
@@ -776,12 +776,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="configDialog.ui" line="651"/>
         <source>Buffer swap mode:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mode d'échange du tampon :</translation>
     </message>
     <message>
         <location filename="configDialog.ui" line="662"/>
         <source>On Vertical Interrupt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Interruption Vertical</translation>
     </message>
     <message>
         <location filename="configDialog.ui" line="667"/>
@@ -804,17 +804,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="configDialog.ui" line="697"/>
         <source>disable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">désactiver</translation>
     </message>
     <message>
         <location filename="configDialog.ui" line="710"/>
         <source>sync</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">synchro</translation>
     </message>
     <message>
         <location filename="configDialog.ui" line="723"/>
         <source>async</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">asynchro</translation>
     </message>
     <message>
         <location filename="configDialog.ui" line="772"/>
